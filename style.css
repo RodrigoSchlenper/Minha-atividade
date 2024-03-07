@@ -1,0 +1,35 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+
+.navbar {
+    background-color: black;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: white;
+}
+
+.nav-link {
+    color: #ffffff;
+}
+
+.figure {
+    text-align: center;
+    display: block;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+
+.footer {
+    background-color: black;
+    color: #ffffff;
+    text-align: center;
+}
